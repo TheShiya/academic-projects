@@ -3,6 +3,12 @@
 A collection of interesting and self-contained school projects.
 
 ---
+#### Forecasting Cable TV Customer Acquisition
+*customer_acquisition_forecast.pdf*
+
+Used gamma-Weibull model to model customer acquisition at the population-level. Incorporated and estimated effects of external factors such as population growth and seasonal promotions.
+
+---
 
 #### Autonomous Driving with Deep Learning Image Detector
 *autonomous_driver_deep_learning.ipynb*
