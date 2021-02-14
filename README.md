@@ -29,6 +29,7 @@ Trains a LSTM network that inputs an image and outputs a sequence of words.
 
 Implementation of the mix membership model in Pyro, an open-source probabilistic programming framework for bayesian models and variational inference.
 
+---
 
 #### Experimental Design: optimal_control_group_selection
 optimal_control_group_selection.ipynb
